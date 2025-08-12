@@ -1,7 +1,7 @@
 
 # CampusBlog
 
-CampusBlog is a modern social platform built with the MERN stack (MongoDB, Express, React Native, Node.js) designed for students of City University of Seattle. The app allows users to interact, create posts, and connect with fellow students in a clean, modern, and mobile-friendly interface.
+CampusBlog is an application designed for students, built using the MERN stack (MongoDB, Express, React, Node.js). This dynamic mobile application lets students share their views, thoughts, and discussions about campus life. It serves as a  hub for sharing ideas and connecting with peers through a mobile-friendly interface.
 
 ## Features
 - User authentication (Sign Up, Log In)
